@@ -1,5 +1,7 @@
 Working site : https://luxury-elf-181ce7.netlify.app
 
+Need to modify the README file
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
